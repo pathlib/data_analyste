@@ -1,0 +1,31 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,discount,region,channel,customer_age,gender,returned,rating
+1001,C001,2025-01-05,Laptop,Electronics,1,1200,10,Ontario,online,34,M,No,5
+1002,C002,05/01/25,Mouse,Electronics,2,25,,Quebec,app,28,F,No,4
+1003,C003,2025/01/06,Desk,Furniture,1,300,5,Ontario,store,,M,No,3
+1004,C004,2025-01-07,Chair,Furniture,2,150,10,British Columbia,online,45,,Yes,2
+1005,C005,2025-01-08,Headphones,Electronics,,80,0,Alberta,app,22,F,No,5
+1006,C006,08/01/25,Monitor,Electronics,1,250,15,Ontario,online,31,M,No,
+1007,C007,2025-01-09,Keyboard,Electronics,3,45,5,Quebec,store,27,F,,4
+1008,C008,2025-01-10,Sofa,Furniture,1,900,,Ontario,online,50,M,Yes,3
+1009,C009,2025-01-11,Laptop,Electronics,1,1300,5,Alberta,app,29,F,No,5
+1010,C010,2025/01/12,Mouse,Electronics,4,20,0,Ontario,store,38,M,No,4
+1011,C011,2025-01-12,Chair,Furniture,1,160,10,Quebec,online,,F,No,3
+1012,C012,2025-01-13,Desk,Furniture,2,310,5,,app,41,M,Yes,2
+1013,C013,2025-01-14,Monitor,Electronics,1,260,10,Ontario,online,36,F,No,5
+1014,C014,14/01/25,Headphones,Electronics,1,85,0,British Columbia,store,24,M,No,4
+1015,C015,2025-01-15,Laptop,Electronics,1,,10,Ontario,online,33,F,No,5
+1016,C016,2025-01-16,Sofa,Furniture,1,950,15,Alberta,app,55,M,Yes,
+1017,C017,2025-01-17,Mouse,Electronics,2,22,0,Ontario,online,26,F,No,4
+1018,C018,2025-01-18,Keyboard,Electronics,1,50,5,Quebec,store,30,,No,3
+1019,C019,2025-01-18,Desk,Furniture,1,290,10,Ontario,online,44,M,No,2
+1020,C020,2025-01-19,Chair,Furniture,2,155,,Alberta,app,,F,Yes,3
+1021,C021,2025-01-20,Laptop,Electronics,1,1250,10,Ontario,online,39,M,No,5
+1022,C022,2025-01-21,Monitor,Electronics,1,270,5,Quebec,store,28,F,No,4
+1023,C023,2025-01-22,Headphones,Electronics,2,90,10,Ontario,app,23,F,No,5
+1024,C024,2025-01-23,Sofa,Furniture,1,980,15,British Columbia,online,60,M,Yes,2
+1025,C025,2025-01-24,Mouse,Electronics,3,,0,Ontario,store,35,F,No,4
+1026,C026,2025-01-25,Keyboard,Electronics,2,48,5,Alberta,app,29,M,No,3
+1027,C027,2025-01-26,Desk,Furniture,1,305,10,Ontario,online,42,F,No,
+1028,C028,2025-01-27,Chair,Furniture,1,150,5,Quebec,store,37,M,Yes,2
+1029,C029,2025-01-28,Laptop,Electronics,1,1400,10,Ontario,online,,F,No,5
+1030,C030,2025-01-29,Monitor,Electronics,1,255,5,Alberta,app,31,M,No,4

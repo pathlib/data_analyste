@@ -1,10 +1,7 @@
 import pandas as pd
 
-# chemin vers le fichier .ods
-fichier = "/home/valteck/Bureau/data.csv"
-
 # lire le fichier avec le moteur 'odf'
-df = pd.read_csv(fichier)
+df = pd.read_csv("data.csv")
 
 # afficher les 5 premières lignes
 print(df.shape)
