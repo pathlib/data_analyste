@@ -1,7 +1,10 @@
 import pandas as pd
 
 # lire le fichier avec le moteur 'odf'
-df = pd.read_csv("data.csv")
+try:
+    df = pd.read_csv("data.csv")
+except FileNotFoundError:
+    print("file not found")
 
 # afficher les 5 premières lignes
 print(df.shape)
