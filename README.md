@@ -7,3 +7,17 @@ Le script permet de calculer différentes statistiques sur les ventes, les clien
 🛠️ Technologies utilisées
 Python 🐍
 Pandas 📊
+
+Installation
+Cloner le dépôt : git clone https://github.com/pathlib/data_analyste.git
+
+Accéder dans le dossier : cd pathlib
+
+Installer les dépendances : pip install -r requirements.txt
+
+Lancement
+Exécuter l'application : python main.py
+
+
+Projet
+Développé dans le cadre d'un apprentissage de gestion de la data.
