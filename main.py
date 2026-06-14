@@ -8,14 +8,6 @@ except Exception as e:
     print(e)
     raise Exception 
 
-<<<<<<< HEAD
-=======
-# lire le fichier avec le moteur 'odf'
-try:
-    df = pd.read_csv("data.csv")
-except FileNotFoundError:
-    print("file not found")
->>>>>>> 9166aee43e9ffd1f9fbb1e0ddb7f87cb56f1f16b
 
 # afficher le nombre de colonne et ligne du tableaux
 print(df.shape)
@@ -53,4 +45,4 @@ print(df[df["category"] == "Furniture"]["rating"].mean())
 print(df["unit_price"].corr(df["rating"]))
 df["unit_price"].dropna()
 donnee=df["unit_price"].max()
-print(f"le print le plus �lev� est {donnee}")
+print(f"le print le plus élevé est {donnee}")
