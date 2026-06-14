@@ -11,7 +11,7 @@ Pandas 📊
 Installation
 Cloner le dépôt : git clone https://github.com/pathlib/data_analyste.git
 
-Accéder dans le dossier : cd pathlib
+Accéder dans le dossier : cd 
 
 Installer les dépendances : pip install -r requirements.txt
 
